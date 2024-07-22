@@ -24,4 +24,4 @@
   <hr/>
 
 <h3>My GitHub summary<h3/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=danvsn5&layout=compact&theme=tokyonight" height="200">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=danvsn5&layout=compact&theme=midnight-purple" height="200">
