@@ -1,11 +1,10 @@
 # Kia ora, I'm Danny
-
 <h3>✨A little about me✨<h3/>
 
 <h5>🖊️ - I'm a penultimate year software engineering student, graduating in 2025<h5/> 
 <h5>☄️ - I love learning about space, the universe, and everything that works around us<h5/>
 <h5>📖 - I'm a passionate reader, often delving into historical fiction, sci-fi and classics<h5/>
-<hr/>
+<h6><hr/><h6/>
 
 <h3>✍️Some of my skills✍️<h3/>
 
@@ -21,7 +20,7 @@
   <img width=50px src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" />
   <img width=50px src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/googlecloud/googlecloud-original.svg" />
   <img width=50px src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/blender/blender-original.svg" />
-  <hr/>
+  <h6><hr/><h6/>
 
 <h3>My GitHub summary<h3/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=danvsn5&layout=compact&theme=midnight-purple" height="200">
